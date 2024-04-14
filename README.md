@@ -10,5 +10,7 @@ You can't, because the source code **does not** include the emulator and games, 
 - The launcher itself
 - KEmulator nnmod 2.15.1
 - J2ME Games ready to play (currently 20 of them)
+## Games 🎮
+You can see included games [here](https://docs.google.com/spreadsheets/d/1i_1EfJr17r8T7WyxgHSHaKcGT5SEYo95nbshl8ShI9g/edit?usp=sharing).
 ## Credits 🫶
 Credits goes to creators of KEmulator and creators of [nnmod](https://nnp.nnchan.ru/kem/), this project wouldn't be real without them.
