@@ -26,12 +26,20 @@ If you want to update J2ME Launcher to a newer version without losing your progr
 
 **A:** This is possible, because J2ME Launcher is not just a launcher, but in near future it is going to work like an archive, so it is going to include broken games, demos, etc. Also, KEmulator nnmod is not 100% compatible with all games. In the near future i would like to include [freej2me](https://github.com/hex007/freej2me) emulator, so you could choose which one do you want to use with selected game. If you found any broken game, or a bug, please report it in the *issues tab*, so i can add it to the game list.
 
-**Q:** Help, every time i try to open a game KEmulator gives me an error!
+**Q:** Help, every time i try to open a game in KEmulator it gives me an error!
 
 **A:** Please check that you moved your J2MELauncher folder to your Documents folder, and that the folder does not have it's version in the name. (Look in the *How to install* category at the top of the page.)
 
 **Q:** Can i use J2ME Launcher on my MacOS or Linux machine?
 
-**A:** You can't, but i might port it in the future.
+**A:** You can't, but i might port it in the future. (J2ME Launcher might work in Wine, but i didn't tested it yet.)
+
+**Q:** Can i use J2ME Launcher on my older Windows 7/Vista/XP PC?
+
+**A:** Yes, you can. J2ME Launcher supports all Windows versions from XP to 11.
+
+**Q:** Is there a Discord server for J2ME Launcher?
+
+**A:** No, there is no Discord server right now. If you found any bugs, please report them in the *issues* tab.
 ## Credits 🫶
 Credits goes to creators of KEmulator and creators of [nnmod](https://nnp.nnchan.ru/kem/), this project wouldn't be real without them.
